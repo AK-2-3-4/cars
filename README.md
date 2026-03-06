@@ -4,6 +4,7 @@ Overview
 This project is an interactive 3D car showroom built using Unity, where users can explore different cars, apply AI-inspired styling themes, and view vehicles from multiple cinematic camera angles.
 
 The goal of this project is to demonstrate how generative AI concepts can enhance product visualization and interactive design environments.
+
 ✨ Features
 🚘 Car Selection
 
@@ -51,8 +52,11 @@ The project includes AI-inspired styling logic where users input a theme, and th
 This demonstrates how generative AI ideas can be integrated into interactive 3D applications.
 
 ⚙️ Project Structure
+
 Assets/
+
 Packages/
+
 ProjectSettings/
 
 These folders contain all Unity scripts, UI elements, car models, and project configuration.
